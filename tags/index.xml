@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Book</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Hugo Book</description>
+    <title>Tags on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/</link>
+    <description>Recent content in Tags on Liva | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://example.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Game</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://example.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>HTML</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://example.com/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>New</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Photos</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://example.com/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Python</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>React</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/react/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/react/</guid>
       <description></description>
     </item>
     
